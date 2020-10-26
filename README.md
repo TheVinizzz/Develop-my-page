@@ -47,7 +47,7 @@ Check the Roadmap to more details about itens below.
 ## :zap: **Tech Stack**
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/TheVinizzz/Develop-my-page/main/src/ui/assets/readme/tecnologies.png">
+  <img src="https://raw.githubusercontent.com/TheVinizzz/Develop-my-page/main/src/ui/assets/readme/technologies.png" alt="technologies">
   <br>
 </h1>
 
