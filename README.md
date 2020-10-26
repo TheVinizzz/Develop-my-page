@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/TheVinizzz/Develop-my-page/main/myPage.png" alt="myPage"/>
+  <img src="https://raw.githubusercontent.com/TheVinizzz/Develop-my-page/main/src/ui/assets/readme/myPage.png" alt="myPage"/>
   <br><br>
 </h1>  
 
@@ -45,6 +45,11 @@ Check the Roadmap to more details about itens below.
 -   [ ] Consume other APIs with Axios
 
 ## :zap: **Tech Stack**
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/TheVinizzz/Develop-my-page/main/src/ui/assets/readme/tecnologies.png">
+  <br>
+</h1>
 
 -   [ReactJS](https://github.com/facebook/react)
 -   [React-Router-Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
