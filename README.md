@@ -14,7 +14,7 @@
   <a href="#blush-why">Why</a> •
   <a href="#dizzy-roadmap">Roadmap</a> •
   <a href="#zap-tech-stack">Tech Stack</a> •
-  <a href="#art-about-me">About Me</a>
+  <a href="#handshake-about-me">About Me</a>
 </p>
 
 ## :blush: **Why?**
