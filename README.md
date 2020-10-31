@@ -35,8 +35,8 @@ Check the Roadmap to more details about itens below.
 -   [x] Integrate React-Redux-Firebase
 -   [x] Integrate Axios
 -   [x] Integrate Material UI
+-   [x] integrate Typescript
 -   [ ] integrate Tailwind CSS
--   [ ] integrate Typescript
 -   [ ] Develop routes
 -   [ ] Create Navbar and Footer
 -   [ ] Create home page
