@@ -34,6 +34,7 @@ Check the Roadmap to more details about itens below.
 -   [x] Integrate Firebase
 -   [x] Integrate React-Redux-Firebase
 -   [x] Integrate Axios
+-   [x] Integrate Material UI
 -   [ ] integrate Tailwind CSS
 -   [ ] integrate Typescript
 -   [ ] Develop routes
