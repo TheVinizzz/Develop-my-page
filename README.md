@@ -28,13 +28,14 @@ I intend to put some technologies into practice, thus making it a cool and fun p
 Check the Roadmap to more details about itens below.
 
 -   [x] Create project in React
+-   [x] integrate React-Router-Dom
+-   [x] Integrate Redux
+-   [x] Integrate React-Redux
+-   [x] Integrate Firebase
+-   [x] Integrate React-Redux-Firebase
+-   [x] Integrate Axios
 -   [ ] integrate Tailwind CSS
 -   [ ] integrate Typescript
--   [ ] integrate React-Router-Dom
--   [ ] Integrate Redux
--   [ ] Integrate Firebase
--   [ ] Integrate React-Redux-Firebase
--   [ ] Integrate Axios
 -   [ ] Develop routes
 -   [ ] Create Navbar and Footer
 -   [ ] Create home page
