@@ -6,11 +6,11 @@ import { Redirect, Route, Switch } from 'react-router-dom';
 // eslint-disable-next-line
 import AuthGuard from './ui/components/AuthGuard';
 
-// Aplicação
+// Aplication
 export const INDEX_ROUTE = "/";
 export const APP_ROUTE = "/app";
 
-// Autenticação
+// Authentication
 export const LOGIN_ROUTE = "/entrar";
 export const REGISTER_ROUTE = "/cadastro";
 
