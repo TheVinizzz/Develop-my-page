@@ -1,13 +1,38 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {Provider} from 'react-redux';
+import { createFirestoreInstance } from 'redux-firestore'
+import {ReactReduxFirebaseProvider} from "react-redux-firebase";
+import DateFnsUtils from '@date-io/date-fns';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {
+  MuiPickersUtilsProvider,
+} from '@material-ui/pickers';
+
+const rrfConfig = {
+  userProfile: 'users',
+  useFirestoreForProfile: true
+};
+
+const rrfProps = {
+  firebase,
+  config: rrfConfig,
+  dispatch: store.dispatch,
+  createFirestoreInstance // <- needed if using firestore
+};
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <MuiPickersUtilsProvider utils={DateFnsUtils}>
+    <React.StrictMode>
+      <Provider store={store}>
+        <ReactReduxFirebaseProvider {...rrfProps}>
+          <App />
+        </ReactReduxFirebaseProvider>
+      </Provider>
+    </React.StrictMode>
+  </MuiPickersUtilsProvider>,
   document.getElementById('root')
 );
 
